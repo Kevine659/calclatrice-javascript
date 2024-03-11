@@ -1,0 +1,62 @@
+fieldset{
+    width: 15.6em;
+    height: 27.2em;
+    margin: auto;
+    border-radius: 12px;
+    border-color: black;
+    background-color: rgb(22, 22, 22);
+    
+
+}
+
+.calc_button{
+    width: 3.5em;
+    height: 3em;
+    color: white; 
+    background-color: rgb(31, 30, 30);
+    border-radius: 12px;
+    border-color: black;
+    margin-top: 8px;
+
+    
+}                                                                                                           
+
+main > input {
+    width: 247px;
+    height: 52px;
+    border:none;
+    border-radius: 3px;
+    border-color: black;
+    background-color: rgb(80, 78, 78);
+    color: white;
+    text-align: right;
+    
+    
+}
+
+#boutons {
+    margin-top: 14px; 
+}
+
+#contener {
+    margin-top: 14px;
+}
+
+#btn_submit {
+    width: 3.2em;
+    height: 3em; 
+    color: aliceblue; 
+    background-color: rgb(32, 32, 32);; 
+    border-radius: 12px;
+    border-color: black;
+}
+
+#time_zone {
+    text-align: right;
+    margin-top: 10px;
+    border-color: white;
+    color: white;
+    padding-top: 0.8em;
+
+}
+
